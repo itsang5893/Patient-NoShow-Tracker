@@ -1,0 +1,69 @@
+Patient ID,Name,Appointment Date,Appointment Type,Status
+P001,John Doe,12/22/2025,Checkup,No-Show
+P001,John Doe,12/24/2025,Checkup,Scheduled
+P002,Jane Smith,12/25/2025,Follow-up,Scheduled
+P003,Emily Brown,12/23/2025,Consultation,Scheduled
+P004,Michael Lee,12/26/2025,Checkup,Scheduled
+P001,John Doe,12/20/2025,Checkup,Completed
+P002,Jane Smith,12/18/2025,Follow-up,No-Show
+P003,Emily Brown,12/15/2025,Consultation,No-Show
+P004,Michael Lee,12/21/2025,Checkup,Completed
+P005,David Chen,3/9/2025,Consultation,Completed
+P005,David Chen,3/17/2025,Vaccine,Completed
+P006,James Anderson,1/29/2025,Consultation,No-Show
+P007,Maria Garcia,2/15/2025,Consultation,Completed
+P007,Maria Garcia,6/27/2025,Annual Physical,No-Show
+P003,Emily Brown,12/18/2025,Consultation,No-Show
+P003,Emily Brown,12/26/2025,Consultation,Scheduled
+P008,Alex Ramirez,12/10/2025,Checkup,No-Show
+P008,Alex Ramirez,12/18/2025,Checkup,No-Show
+P008,Alex Ramirez,12/24/2025,Checkup,Scheduled
+P009,Brianna Collins,12/12/2025,Follow-up,No-Show
+P009,Brianna Collins,12/26/2025,Follow-up,Scheduled
+P010,Carlos Nguyen,12/8/2025,Consultation,No-Show
+P010,Carlos Nguyen,12/15/2025,Consultation,No-Show
+P010,Carlos Nguyen,12/23/2025,Consultation,Scheduled
+P011,Danielle Foster,12/14/2025,Physical,Completed
+P011,Danielle Foster,12/27/2025,Physical,Scheduled
+P012,Ethan Brooks,12/5/2025,Blood Work,No-Show
+P012,Ethan Brooks,12/19/2025,Blood Work,No-Show
+P012,Ethan Brooks,12/28/2025,Blood Work,Scheduled
+P013,Fiona Patel,12/11/2025,Checkup,Completed
+P013,Fiona Patel,12/25/2025,Checkup,Scheduled
+P014,George Kim,12/9/2025,Consultation,No-Show
+P014,George Kim,12/24/2025,Consultation,Scheduled
+P015,Hannah Lopez,12/16/2025,Follow-up,Completed
+P015,Hannah Lopez,12/29/2025,Follow-up,Scheduled
+P016,Isaac Turner,12/13/2025,Physical,No-Show
+P016,Isaac Turner,12/20/2025,Physical,No-Show
+P016,Isaac Turner,1/1/2026,Physical,Scheduled
+P017,Jordan Alvarez,1/5/2026,Checkup,No-Show
+P017,Jordan Alvarez,1/12/2026,Checkup,No-Show
+P017,Jordan Alvarez,1/20/2026,Checkup,Scheduled
+P018,Kayla Morrison,2/3/2026,Follow-up,No-Show
+P018,Kayla Morrison,2/10/2026,Follow-up,No-Show
+P018,Kayla Morrison,2/18/2026,Follow-up,Scheduled
+P019,Liam O'Connor,3/2/2026,Consultation,No-Show
+P019,Liam O'Connor,3/9/2026,Consultation,No-Show
+P019,Liam O'Connor,3/17/2026,Consultation,Scheduled
+P020,Maya Chen,1/8/2026,Physical,No-Show
+P020,Maya Chen,1/15/2026,Physical,No-Show
+P020,Maya Chen,1/23/2026,Physical,Scheduled
+P021,Noah Stein,2/5/2026,Blood Work,No-Show
+P021,Noah Stein,2/12/2026,Blood Work,No-Show
+P021,Noah Stein,2/20/2026,Blood Work,Scheduled
+P022,Olivia Park,1/22/2026,Checkup,No-Show
+P022,Olivia Park,1/27/2026,Checkup,No-Show
+P022,Olivia Park,2/2/2026,Checkup,Scheduled
+P023,Ryan Delgado,2/6/2026,Follow-up,No-Show
+P023,Ryan Delgado,2/11/2026,Follow-up,No-Show
+P023,Ryan Delgado,2/16/2026,Follow-up,Scheduled
+P024,Sophia Nguyen,2/20/2026,Consultation,No-Show
+P024,Sophia Nguyen,2/25/2026,Consultation,No-Show
+P024,Sophia Nguyen,3/2/2026,Consultation,Scheduled
+P025,Thomas Wright,3/6/2026,Physical,No-Show
+P025,Thomas Wright,3/11/2026,Physical,No-Show
+P025,Thomas Wright,3/16/2026,Physical,Scheduled
+P026,Vanessa Morales,3/20/2026,Blood Work,No-Show
+P026,Vanessa Morales,3/24/2026,Blood Work,No-Show
+P026,Vanessa Morales,3/29/2026,Blood Work,Scheduled
