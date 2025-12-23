@@ -1,10 +1,10 @@
-Patient No-Show Tracker
+# Patient No-Show Tracker
 
 A Python-based tool that analyzes patient appointment records to identify individuals with frequent no-shows and upcoming appointments within the next 5 days. Generates a concise report to support proactive clinic scheduling and outreach.
 
 Author: Isaac Tsang
 
-Project Overview
+# Project Overview
 
 This project demonstrates the ability to work with Python, CSV data, and date logic to support data-driven decision-making in healthcare. It highlights skills in:
 
@@ -16,7 +16,7 @@ Date calculations using the datetime module
 
 Clean, formatted console output
 
-Getting Started: 
+# Getting Started: 
 
 Ensure the CSV file Patient_NoShow_Tracker_Data.csv is in the same folder as the script.
 
@@ -37,13 +37,13 @@ P002: Jane Smith - Appointment on 12/25/2025
 P003: Emily Brown - Appointment on 12/23/2025 
 
 
-Dependencies: 
+# Dependencies: 
 
 Python 3.x
 
 Built-in libraries only (csv, datetime, os)
 
-Notes: 
+# Notes: 
 
 Appointment dates in the CSV must be formatted as MM/DD/YYYY.
 
