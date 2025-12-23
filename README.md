@@ -1,6 +1,6 @@
 # Patient No-Show Tracker
 
-A Python-based tool that analyzes patient appointment records to identify individuals with frequent no-shows and upcoming appointments within the next 5 days. Generates a concise report to support proactive clinic scheduling and outreach.
+A Python-based tool that analyzes patient appointment records to identify individuals with frequent no-shows and upcoming appointments within the next 5 days. Generates a concise report to optimize scheduling and business operation.
 
 Author: Isaac Tsang
 
